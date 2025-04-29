@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>GlowLune | Login / Signup</title>
+  <link rel="stylesheet" href="styles/loginstyles.css">
+  <link href="https://fonts.googleapis.com/css2?family=Assistant:wght@300;600&display=swap" rel="stylesheet">
+</head>
+<body>
+   <!-- Header Navigation -->
+<header class="main-header">
+  <!-- Logo -->
+  <div class="logo">
+    <img src="images/glowlune-logo.png" alt="Glowlune Logo" />
+  </div>
+
+  <!-- Centered Navigation Links -->
+  <nav class="nav-links">
+    <a href="index.html">Home</a>
+    <a href="shop.html">Shop</a>
+    <a href="product.html">Products</a>
+    <a href="#about">About</a>
+    <a href="#contact">Contact</a>
+  </nav>
+
+  <!-- Wishlist and Cart Icons -->
+  <div class="header-icons">
+    <!-- Wishlist Icon -->
+    <a href="wishlist.html" class="icon" title="Wishlist">
+      <svg width="24" height="24" viewBox="0 0 24 24" fill="#2a2a2a" xmlns="http://www.w3.org/2000/svg">
+        <path d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 
+          2 5.42 4.42 3 7.5 3c1.74 0 3.41 0.81 4.5 
+          2.09C13.09 3.81 14.76 3 16.5 
+          3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 
+          6.86-8.55 11.54L12 21.35z"/>
+      </svg>
+    </a>
+
+    <!-- Cart Icon -->
+    <a href="cart.html" class="icon" title="Cart">
+      <svg width="24" height="24" viewBox="0 0 24 24" fill="#2a2a2a" xmlns="http://www.w3.org/2000/svg">
+        <path d="M6 2L3 6v2h18V6l-3-4H6zm1.5 2h9l1.5 2H6L7.5 4zm-4.5 6v10a2 2 0 002 2h14a2 2 0 002-2V10H3zm5 3h2v6H8v-6zm6 0h2v6h-2v-6z"/>
+      </svg>
+    </a>
+
+    <a href="profile.html" class="icon" title="Profile">
+      <svg width="24" height="24" viewBox="0 0 24 24" fill="#2a2a2a" xmlns="http://www.w3.org/2000/svg">
+        <path d="M12 12c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm0 2c-3.87 0-7 3.13-7 7v2h14v-2c0-3.87-3.13-7-7-7z"/>
+      </svg>
+    </a>
+
+  </div>
+</header>
+  <div class="container">
+    <h1>Welcome to GlowLune</h1>
+    <div class="tabs">
+      <button id="show-login" class="active">Login</button>
+      <button id="show-signup">Signup</button>
+    </div>
+
+    <form id="auth-form">
+      <input type="email" id="email" placeholder="Email" required />
+      <input type="password" id="password" placeholder="Password" required />
+      <button type="submit" id="auth-action">Login</button>
+      <p id="message"></p>
+    </form>
+  </div>
+
+  <!-- Firebase Scripts -->
+  <script type="module" src="javascript/login.js"></script>
+</body>
+</html>
