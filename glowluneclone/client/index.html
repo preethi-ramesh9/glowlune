@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Glowlune Skincare</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="navbar">
+    <div class="container">
+      <h1 class="logo">GLOWLUNE</h1>
+      <nav>
+        <ul class="nav-links">
+          <li><a href="#home">Home</a></li>
+          <li><a href="#shop">Shop</a></li>
+          <li><a href="#about">About</a></li>
+          <li><a href="#contact">Contact</a></li>
+        </ul>
+      </nav>
+      <button id="cart-toggle" class="btn">🛒 Cart (<span id="cart-count">0</span>)</button>
+    </div>
+  </header>
+
+  <section id="home" class="hero">
+    <div class="hero-content">
+      <h2>Radiant Skincare, Naturally</h2>
+      <p>Shop our line of gentle, natural skincare essentials.</p>
+      <a href="#shop" class="btn">Shop Now</a>
+    </div>
+  </section>
+
+  <section id="shop" class="products">
+    <h2 class="section-title">Featured Products</h2>
+    <div id="product-grid" class="product-grid"></div>
+  </section>
+
+  <div id="cart-modal" class="cart-modal hidden">
+    <div class="cart-content">
+      <h3>Your Cart</h3>
+      <ul id="cart-items"></ul>
+      <p>Total: $<span id="cart-total">0.00</span></p>
+      <button id="checkout-btn" class="btn">Checkout</button>
+      <button id="close-cart" class="btn secondary">Close</button>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

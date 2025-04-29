@@ -1,0 +1,15 @@
+[
+    {
+      "id": 1,
+      "name": "Glow Serum",
+      "price": 29.99,
+      "image": "https://via.placeholder.com/250"
+    },
+    {
+      "id": 2,
+      "name": "Hydra Mist",
+      "price": 19.99,
+      "image": "https://via.placeholder.com/250"
+    }
+  ]
+  

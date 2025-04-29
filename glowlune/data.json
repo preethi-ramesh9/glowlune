@@ -1,0 +1,254 @@
+[
+    {
+      "productid":"product_8b7184fe-16d2-d898-06d9-403ff8470c79",
+      "name":"Glow Elixir",
+      "description":"<p>A radiance-boosting face wash infused with <strong>Vitamin C and papaya extract<\/strong>. Gently exfoliates, evens skin tone, and revives dull skin for a fresh, glowing complexion. Perfect for those looking to brighten their skin and fade dark spots naturally.<\/p>",
+      "productimage":"./images/glowElixir.jpg",
+      "price":699.0,
+      "tag":"BestSeller",
+      "category":"Cleanser",
+      "additional information":{
+        "PRODUCT INFO":"<ul>\n\t<li><strong>Key Ingredients:<\/strong> Vitamin C &amp; Papaya Extract<\/li>\n\t<li><strong>Skin Type:<\/strong> Dull &amp; Uneven Skin Tone<\/li>\n\t<li><strong>Texture:<\/strong> Refreshing Gel<\/li>\n\t<li><strong>Size:<\/strong>&nbsp;250ml<\/li>\n<\/ul>\n",
+        "RETURN & REFUND POLICY":"<ul>\n\t<li><strong>Returns:<\/strong> Products can be returned within <strong>7 days<\/strong> of delivery if unused and unopened.<\/li>\n\t<li><strong>Refunds:<\/strong> Refunds will be processed after a quality check of the returned product, typically within <strong>5-7 business days<\/strong>.<\/li>\n\t<li><strong>Exchange:<\/strong> If you receive a damaged or incorrect item, contact us within <strong>48 hours<\/strong> for a replacement.<\/li>\n<\/ul>\n",
+        "SHIPPING INFO":"<ul>\n\t<li><strong>Processing Time:<\/strong> Orders are processed within <strong>1-2 business days<\/strong>.<\/li>\n\t<li><strong>Delivery Time:<\/strong> Standard shipping takes <strong>4-7 business days<\/strong>, express shipping available in <strong>2-4 business days<\/strong>.<\/li>\n\t<li><strong>Shipping Charges:<\/strong> Free shipping on orders above \u20b9999. Standard charges apply for lower orders.<\/li>\n<\/ul>\n"
+      }
+    },
+    {
+      "productid":"product_31e94170-b65f-bdc3-4aa8-633653cf602c",
+      "name":"Lunar Detox",
+      "description":"<p>A detoxifying cleanser enriched with <strong>activated charcoal and salicylic acid<\/strong>. Draws out impurities, unclogs pores, and balances oil production without over-drying. Ideal for oily and acne-prone skin, it deeply cleanses and refreshes for a shine-free finish<\/p>",
+      "productimage":"./images/lunarDetox.jpg",
+      "price":699.0,
+      "tag":"BestSeller",
+      "category":"Cleanser",
+      "additional information":{
+        "PRODUCT INFO":"<ul>\n\t<li><strong>Key Ingredients:<\/strong> Activated Charcoal &amp; Salicylic Acid<\/li>\n\t<li><strong>Skin Type:<\/strong> Oily &amp; Acne-Prone Skin<\/li>\n\t<li><strong>Texture:<\/strong> Foaming Gel<\/li>\n\t<li><strong>Size:<\/strong> 150ml<\/li>\n<\/ul>\n",
+        "RETURN & REFUND POLICY":"<ul>\n\t<li><strong>Returns:<\/strong> Products can be returned within <strong>7 days<\/strong> of delivery if unused and unopened.<\/li>\n\t<li><strong>Refunds:<\/strong> Refunds will be processed after a quality check of the returned product, typically within <strong>5-7 business days<\/strong>.<\/li>\n\t<li><strong>Exchange:<\/strong> If you receive a damaged or incorrect item, contact us within <strong>48 hours<\/strong> for a replacement.<\/li>\n<\/ul>\n",
+        "SHIPPING INFO":"<ul>\n\t<li><strong>Processing Time:<\/strong> Orders are processed within <strong>1-2 business days<\/strong>.<\/li>\n\t<li><strong>Delivery Time:<\/strong> Standard shipping takes <strong>4-7 business days<\/strong>, express shipping available in <strong>2-4 business days<\/strong>.<\/li>\n\t<li><strong>Shipping Charges:<\/strong> Free shipping on orders above \u20b9999. Standard charges apply for lower orders.<\/li>\n<\/ul>\n"
+      }
+    },
+    {
+      "productid":"product_8c10238b-b070-7494-5561-6c78030761df",
+      "name":"Serene Bloom",
+      "description":"<p>A calming body wash enriched with <strong>lavender and oat milk<\/strong>, designed to soothe dry and sensitive skin. Its gentle formula cleanses without stripping moisture, leaving skin soft, hydrated, and delicately scented with a serene floral aroma.<\/p>",
+      "price":749.0,
+      "tag":"BestSeller",
+      "productimage":"./images/sereneBloom.jpg",
+      "category":"Body wash",
+      "additional information":{
+        "PRODUCT INFO":"<ul>\n\t<li><strong>Key Ingredients:<\/strong> Lavender &amp; Oat Milk<\/li>\n\t<li><strong>Skin Type:<\/strong> Dry &amp; Sensitive Skin<\/li>\n\t<li><strong>Texture:<\/strong> Creamy Gel<\/li>\n\t<li><strong>Size:<\/strong> 250ml<\/li>\n<\/ul>\n",
+        "RETURN & REFUND POLICY":"<ul>\n\t<li><strong>Returns:<\/strong> Products can be returned within <strong>7 days<\/strong> of delivery if unused and unopened.<\/li>\n\t<li><strong>Refunds:<\/strong> Refunds will be processed after a quality check of the returned product, typically within <strong>5-7 business days<\/strong>.<\/li>\n\t<li><strong>Exchange:<\/strong> If you receive a damaged or incorrect item, contact us within <strong>48 hours<\/strong> for a replacement.<\/li>\n<\/ul>\n",
+        "SHIPPING INFO":"<ul>\n\t<li><strong>Processing Time:<\/strong> Orders are processed within <strong>1-2 business days<\/strong>.<\/li>\n\t<li><strong>Delivery Time:<\/strong> Standard shipping takes <strong>4-7 business days<\/strong>, express shipping available in <strong>2-4 business days<\/strong>.<\/li>\n\t<li><strong>Shipping Charges:<\/strong> Free shipping on orders above \u20b9999. Standard charges apply for lower orders.<\/li>\n<\/ul>\n"
+      }
+    },
+    {
+      "productid":"product_bb485294-6a77-f949-6345-95443da041c9",
+      "name":"Silken Glow",
+      "description":"<p>A luxurious, hydrating body wash infused with <strong>rose water and vitamin E<\/strong>. Gently cleanses while locking in moisture, leaving your skin feeling silky soft and radiant. The delicate floral fragrance lingers for a refreshing and soothing experience.<\/p>",
+      "price":749.0,
+      "tag":"BestSeller",
+      "productimage":"./images/silkenGlow.jpg",
+      "category":"Body wash",
+      "additional information":{
+        "PRODUCT INFO":"<ul>\n\t<li><strong>Key Ingredients:<\/strong> Rose Water &amp; Vitamin E<\/li>\n\t<li><strong>Skin Type:<\/strong> All Skin Types<\/li>\n\t<li><strong>Texture:<\/strong> Lightweight Gel<\/li>\n\t<li><strong>Size:<\/strong> 250ml<\/li>\n<\/ul>\n",
+        "RETURN & REFUND POLICY":"<ul>\n\t<li><strong>Returns:<\/strong> Products can be returned within <strong>7 days<\/strong> of delivery if unused and unopened.<\/li>\n\t<li><strong>Refunds:<\/strong> Refunds will be processed after a quality check of the returned product, typically within <strong>5-7 business days<\/strong>.<\/li>\n\t<li><strong>Exchange:<\/strong> If you receive a damaged or incorrect item, contact us within <strong>48 hours<\/strong> for a replacement.<\/li>\n<\/ul>\n",
+        "SHIPPING INFO":"<ul>\n\t<li><strong>Processing Time:<\/strong> Orders are processed within <strong>1-2 business days<\/strong>.<\/li>\n\t<li><strong>Delivery Time:<\/strong> Standard shipping takes <strong>4-7 business days<\/strong>, express shipping available in <strong>2-4 business days<\/strong>.<\/li>\n\t<li><strong>Shipping Charges:<\/strong> Free shipping on orders above \u20b9999. Standard charges apply for lower orders.<\/li>\n<\/ul>\n"
+      }
+    },
+    {
+      "productid":"product_80a9a967-d826-5411-645d-2ef03a0cfadb",
+      "name":"Matte Cloud",
+      "description":"<p>A lightweight, oil-control moisturizer infused with niacinamide and zinc. Hydrates while keeping excess oil in check, leaving a soft matte finish.<\/p>",
+      "price":599.0,
+      "tag":"BestSeller",
+      "productimage":"./images/matteCloud.jpg",
+      "category":"Moisturizer",
+      "additional information":{
+        "PRODUCT INFO":"<ul>\n\t<li><strong>Key Ingredients:<\/strong> Niacinamide &amp; Zinc<\/li>\n\t<li><strong>Skin Type:<\/strong> Oily &amp; Combination Skin<\/li>\n\t<li><strong>Texture:<\/strong> Soft Cream<\/li>\n\t<li><strong>Size:<\/strong>&nbsp;100ml<\/li>\n<\/ul>\n",
+        "RETURN & REFUND POLICY":"<ul>\n\t<li><strong>Returns:<\/strong> Products can be returned within <strong>7 days<\/strong> of delivery if unused and unopened.<\/li>\n\t<li><strong>Refunds:<\/strong> Refunds will be processed after a quality check of the returned product, typically within <strong>5-7 business days<\/strong>.<\/li>\n\t<li><strong>Exchange:<\/strong> If you receive a damaged or incorrect item, contact us within <strong>48 hours<\/strong> for a replacement.<\/li>\n<\/ul>\n",
+        "SHIPPING INFO":"<ul>\n\t<li><strong>Processing Time:<\/strong> Orders are processed within <strong>1-2 business days<\/strong>.<\/li>\n\t<li><strong>Delivery Time:<\/strong> Standard shipping takes <strong>4-7 business days<\/strong>, express shipping available in <strong>2-4 business days<\/strong>.<\/li>\n\t<li><strong>Shipping Charges:<\/strong> Free shipping on orders above \u20b9999. Standard charges apply for lower orders.<\/li>\n<\/ul>\n"
+      }
+    },
+    {
+      "productid":"product_88d9c4d4-d031-d0ed-3498-797b9f34f40b",
+      "name":"Silk Barrier",
+      "description":"<p>A deeply nourishing cream with ceramides and squalane to restore and strengthen the skin\u2019s protective barrier. Ideal for dry and compromised skin.<\/p>",
+      "price":599.0,
+      "tag":"none",
+      "productimage":"./images/silkBarrier.jpg",
+      "category":"Moisturizer",
+      "additional information":{
+        "PRODUCT INFO":"<ul>\n\t<li><strong>Key Ingredients:<\/strong> Ceramides &amp; Squalane<\/li>\n\t<li><strong>Skin Type:<\/strong> Dry &amp; Sensitive Skin<\/li>\n\t<li><strong>Texture:<\/strong> Rich Cream<\/li>\n\t<li><strong>Size:<\/strong>&nbsp;100ml<\/li>\n<\/ul>\n",
+        "RETURN & REFUND POLICY":"<ul>\n\t<li><strong>Returns:<\/strong> Products can be returned within <strong>7 days<\/strong> of delivery if unused and unopened.<\/li>\n\t<li><strong>Refunds:<\/strong> Refunds will be processed after a quality check of the returned product, typically within <strong>5-7 business days<\/strong>.<\/li>\n\t<li><strong>Exchange:<\/strong> If you receive a damaged or incorrect item, contact us within <strong>48 hours<\/strong> for a replacement.<\/li>\n<\/ul>\n",
+        "SHIPPING INFO":"<ul>\n\t<li><strong>Processing Time:<\/strong> Orders are processed within <strong>1-2 business days<\/strong>.<\/li>\n\t<li><strong>Delivery Time:<\/strong> Standard shipping takes <strong>4-7 business days<\/strong>, express shipping available in <strong>2-4 business days<\/strong>.<\/li>\n\t<li><strong>Shipping Charges:<\/strong> Free shipping on orders above \u20b9999. Standard charges apply for lower orders.<\/li>\n<\/ul>\n"
+      }
+    },
+    {
+      "productid":"product_61146cde-eada-49e6-324b-7f2c79715dc6",
+      "name":"Aqua Veil",
+      "description":"<p>A lightweight, water-based gel moisturizer enriched with hyaluronic acid and green tea extract. Instantly hydrates, refreshes, and locks in moisture without a greasy feel.<\/p>",
+      "price":599.0,
+      "tag":"BestSeller",
+      "productimage":"./images/aquaVeil.jpg",
+      "category":"Moisturizer",
+      "additional information":{
+        "PRODUCT INFO":"<ul>\n\t<li><strong>Key Ingredients:<\/strong> Hyaluronic Acid &amp; Green Tea Extract<\/li>\n\t<li><strong>Skin Type:<\/strong> Normal to Oily Skin<\/li>\n\t<li><strong>Texture:<\/strong> Lightweight Gel<\/li>\n\t<li><strong>Size:<\/strong>&nbsp;100ml<\/li>\n<\/ul>\n",
+        "RETURN & REFUND POLICY":"<ul>\n\t<li><strong>Returns:<\/strong> Products can be returned within <strong>7 days<\/strong> of delivery if unused and unopened.<\/li>\n\t<li><strong>Refunds:<\/strong> Refunds will be processed after a quality check of the returned product, typically within <strong>5-7 business days<\/strong>.<\/li>\n\t<li><strong>Exchange:<\/strong> If you receive a damaged or incorrect item, contact us within <strong>48 hours<\/strong> for a replacement.<\/li>\n<\/ul>\n",
+        "SHIPPING INFO":"<ul>\n\t<li><strong>Processing Time:<\/strong> Orders are processed within <strong>1-2 business days<\/strong>.<\/li>\n\t<li><strong>Delivery Time:<\/strong> Standard shipping takes <strong>4-7 business days<\/strong>, express shipping available in <strong>2-4 business days<\/strong>.<\/li>\n\t<li><strong>Shipping Charges:<\/strong> Free shipping on orders above \u20b9999. Standard charges apply for lower orders.<\/li>\n<\/ul>\n"
+      }
+    },
+    {
+      "productid":"product_0c86b714-7b87-a625-5682-600f097598db",
+      "name":"Celestial Caress",
+      "description":"<p>A rich, deeply moisturizing body cream with ceramides and cocoa butter. Helps restore skin\u2019s barrier, leaving it soft, smooth, and ultra-hydrated.<\/p>",
+      "price":699.0,
+      "tag":"none",
+      "productimage":"./images/celestialCaress.jpg",
+      "category":"Body lotion",
+      "additional information":{
+        "PRODUCT INFO":"<ul>\n\t<li><strong>Key Ingredients:<\/strong> Ceramides &amp; Cocoa Butter<\/li>\n\t<li><strong>Texture:<\/strong> Rich Cream<\/li>\n\t<li><strong>Size:<\/strong> 200ml<\/li>\n<\/ul>\n",
+        "RETURN & REFUND POLICY":"<ul>\n\t<li><strong>Returns:<\/strong> Products can be returned within <strong>7 days<\/strong> of delivery if unused and unopened.<\/li>\n\t<li><strong>Refunds:<\/strong> Refunds will be processed after a quality check of the returned product, typically within <strong>5-7 business days<\/strong>.<\/li>\n\t<li><strong>Exchange:<\/strong> If you receive a damaged or incorrect item, contact us within <strong>48 hours<\/strong> for a replacement.<\/li>\n<\/ul>\n",
+        "SHIPPING INFO":"<ul>\n\t<li><strong>Processing Time:<\/strong> Orders are processed within <strong>1-2 business days<\/strong>.<\/li>\n\t<li><strong>Delivery Time:<\/strong> Standard shipping takes <strong>4-7 business days<\/strong>, express shipping available in <strong>2-4 business days<\/strong>.<\/li>\n\t<li><strong>Shipping Charges:<\/strong> Free shipping on orders above \u20b9999. Standard charges apply for lower orders.<\/li>\n<\/ul>\n"
+      }
+    },
+    {
+      "productid":"product_aa2c76c1-b4c4-f528-3194-e78c7fe8f138",
+      "name":"Velvet Embrace",
+      "description":"<p>A glow-enhancing body lotion enriched with niacinamide and shea butter. Evens skin tone, boosts hydration, and gives a luminous glow<\/p>",
+      "price":699.0,
+      "tag":"none",
+      "productimage":"./images/velvetEmbrace.jpg",
+      "category":"Body lotion",
+      "additional information":{
+        "PRODUCT INFO":"<ul>\n\t<li><strong>Key Ingredients:<\/strong> Niacinamide &amp; Shea Butter<\/li>\n\t<li><strong>Texture:<\/strong> Silky Cream<\/li>\n\t<li><strong>Size:<\/strong> 200ml<\/li>\n<\/ul>\n",
+        "RETURN & REFUND POLICY":"<ul>\n\t<li><strong>Returns:<\/strong> Products can be returned within <strong>7 days<\/strong> of delivery if unused and unopened.<\/li>\n\t<li><strong>Refunds:<\/strong> Refunds will be processed after a quality check of the returned product, typically within <strong>5-7 business days<\/strong>.<\/li>\n\t<li><strong>Exchange:<\/strong> If you receive a damaged or incorrect item, contact us within <strong>48 hours<\/strong> for a replacement.<\/li>\n<\/ul>\n",
+        "SHIPPING INFO":"<ul>\n\t<li><strong>Processing Time:<\/strong> Orders are processed within <strong>1-2 business days<\/strong>.<\/li>\n\t<li><strong>Delivery Time:<\/strong> Standard shipping takes <strong>4-7 business days<\/strong>, express shipping available in <strong>2-4 business days<\/strong>.<\/li>\n\t<li><strong>Shipping Charges:<\/strong> Free shipping on orders above \u20b9999. Standard charges apply for lower orders.<\/li>\n<\/ul>\n"
+      }
+    },
+    {
+      "productid":"product_c419009c-b349-2f2e-130c-c859f651c28a",
+      "name":"Ethereal Silk",
+      "description":"<p>A fast-absorbing, non-greasy body lotion infused with squalane and aloe vera. Keeps skin hydrated, soft, and nourished throughout the day.<\/p>",
+      "price":699.0,
+      "tag":"none",
+      "productimage":"./images/etheralSilk.jpg",
+      "category":"Body lotion",
+      "additional information":{
+        "PRODUCT INFO":"<ul>\n\t<li><strong>Key Ingredients:<\/strong> Squalane &amp; Aloe Vera<\/li>\n\t<li><strong>Texture:<\/strong> Lightweight Cream<\/li>\n\t<li><strong>Size:<\/strong> 200ml<\/li>\n<\/ul>\n",
+        "RETURN & REFUND POLICY":"<ul>\n\t<li><strong>Returns:<\/strong> Products can be returned within <strong>7 days<\/strong> of delivery if unused and unopened.<\/li>\n\t<li><strong>Refunds:<\/strong> Refunds will be processed after a quality check of the returned product, typically within <strong>5-7 business days<\/strong>.<\/li>\n\t<li><strong>Exchange:<\/strong> If you receive a damaged or incorrect item, contact us within <strong>48 hours<\/strong> for a replacement.<\/li>\n<\/ul>\n",
+        "SHIPPING INFO":"<ul>\n\t<li><strong>Processing Time:<\/strong> Orders are processed within <strong>1-2 business days<\/strong>.<\/li>\n\t<li><strong>Delivery Time:<\/strong> Standard shipping takes <strong>4-7 business days<\/strong>, express shipping available in <strong>2-4 business days<\/strong>.<\/li>\n\t<li><strong>Shipping Charges:<\/strong> Free shipping on orders above \u20b9999. Standard charges apply for lower orders.<\/li>\n<\/ul>\n"
+      }
+    },
+    {
+      "productid":"product_5a82de1a-fae2-ffaa-ab91-61f9935e19a2",
+      "name":"Aura Drizzle",
+      "description":"<ul>\t<li><strong>Key Ingredients:<\/strong> Green Tea Extract &amp; Oat Protein<\/li>\t<li><strong>Skin Type:<\/strong> Normal to Dry Skin<\/li>\t<li><strong>Texture:<\/strong> Creamy Gel<\/li>\t<li><strong>Size:<\/strong> 250ml<\/li><\/ul>",
+      "price":749.0,
+      "tag":"none",
+      "productimage":"./images/auraDrizzle.jpg",
+      "category":"Body wash",
+      "additional information":{
+        "PRODUCT INFO":"<ul>\n\t<li><strong>Key Ingredients:<\/strong> Aloe Vera &amp; Hyaluronic Acid<\/li>\n\t<li><strong>Skin Type:<\/strong> Dry &amp; Sensitive Skin<\/li>\n\t<li><strong>Texture:<\/strong> Lightweight Gel<\/li>\n\t<li><strong>Size:<\/strong> 150ml<\/li>\n<\/ul>\n",
+        "RETURN & REFUND POLICY":"<ul>\n\t<li><strong>Returns:<\/strong> Products can be returned within <strong>7 days<\/strong> of delivery if unused and unopened.<\/li>\n\t<li><strong>Refunds:<\/strong> Refunds will be processed after a quality check of the returned product, typically within <strong>5-7 business days<\/strong>.<\/li>\n\t<li><strong>Exchange:<\/strong> If you receive a damaged or incorrect item, contact us within <strong>48 hours<\/strong> for a replacement.<\/li>\n<\/ul>\n",
+        "SHIPPING INFO":"<ul>\n\t<li><strong>Processing Time:<\/strong> Orders are processed within <strong>1-2 business days<\/strong>.<\/li>\n\t<li><strong>Delivery Time:<\/strong> Standard shipping takes <strong>4-7 business days<\/strong>, express shipping available in <strong>2-4 business days<\/strong>.<\/li>\n\t<li><strong>Shipping Charges:<\/strong> Free shipping on orders above \u20b9999. Standard charges apply for lower orders.<\/li>\n<\/ul>\n"
+      }
+    },
+    {
+      "productid":"product_df19c1f7-07d8-a265-42f8-e8dfa824cc6e",
+      "name":"Dewdrop cleanser",
+      "description":"<p>A mild, sulfate-free cleanser infused with aloe vera and hyaluronic acid. Gently removes dirt and impurities while keeping the skin hydrated and plump. Perfect for dry and sensitive skin.<\/p>",
+      "price":699.0,
+      "tag":"none",
+      "productimage":"./images/dewDropCleanser.jpg",
+      "category":"Cleanser",
+      "additional information":{
+        "PRODUCT INFO":"<ul>\n\t<li><strong>Key Ingredients:<\/strong> Aloe Vera &amp; Hyaluronic Acid<\/li>\n\t<li><strong>Skin Type:<\/strong> Dry &amp; Sensitive Skin<\/li>\n\t<li><strong>Texture:<\/strong> Lightweight Gel<\/li>\n\t<li><strong>Size:<\/strong> 150ml<\/li>\n<\/ul>\n",
+        "RETURN & REFUND POLICY":"<ul>\n\t<li><strong>Returns:<\/strong> Products can be returned within <strong>7 days<\/strong> of delivery if unused and unopened.<\/li>\n\t<li><strong>Refunds:<\/strong> Refunds will be processed after a quality check of the returned product, typically within <strong>5-7 business days<\/strong>.<\/li>\n\t<li><strong>Exchange:<\/strong> If you receive a damaged or incorrect item, contact us within <strong>48 hours<\/strong> for a replacement.<\/li>\n<\/ul>\n",
+        "SHIPPING INFO":"<ul>\n\t<li><strong>Processing Time:<\/strong> Orders are processed within <strong>1-2 business days<\/strong>.<\/li>\n\t<li><strong>Delivery Time:<\/strong> Standard shipping takes <strong>4-7 business days<\/strong>, express shipping available in <strong>2-4 business days<\/strong>.<\/li>\n\t<li><strong>Shipping Charges:<\/strong> Free shipping on orders above \u20b9999. Standard charges apply for lower orders.<\/li>\n<\/ul>\n"
+      }
+    },
+    {
+      "productid":"product_c8539b66-7a44-fe18-affc-afec4be8562a",
+      "name":"Lumine Drops",
+      "description":"<p>A powerful brightening serum with Vitamin C and Vitamin E to even out skin tone and reduce dark spots. Boosts radiance and protects against environmental damage.<\/p>",
+      "price":599.0,
+      "tag":"none",
+      "productimage":"./images/lumineDrops.jpg",
+      "category":"Serums",
+      "additional information":{
+        "PRODUCT INFO":"<ul>\n\t<li><strong>Key Ingredients:<\/strong> Vitamin C &amp; Vitamin E<\/li>\n\t<li><strong>Skin Type:<\/strong> All Skin Types<\/li>\n\t<li><strong>Texture:<\/strong> Lightweight Serum<\/li>\n\t<li><strong>Size:<\/strong> 30ml<\/li>\n<\/ul>\n",
+        "RETURN & REFUND POLICY":"I\u2019m a Return and Refund policy. I\u2019m a great place to let your customers know what to do in case they are dissatisfied with their purchase. Having a straightforward refund or exchange policy is a great way to build trust and reassure your customers that they can buy with confidence.",
+        "SHIPPING INFO":"I'm a shipping policy. I'm a great place to add more information about your shipping methods, packaging and cost. Providing straightforward information about your shipping policy is a great way to build trust and reassure your customers that they can buy from you with confidence."
+      }
+    },
+    {
+      "productid":"product_ea77f230-558f-57b6-cdd1-0ba565e8f827",
+      "name":"Solar Veil",
+      "description":"<p>A non-greasy, gel-based sunscreen with SPF 50+ PA+++. Offers broad-spectrum protection without clogging pores or leaving a white cast.<\/p>",
+      "price":499.0,
+      "tag":"none",
+      "productimage":"./images/solarVeil.jpg",
+      "category":"Sunscreen",
+      "additional information":{
+        "PRODUCT INFO":"<ul>\n\t<li><strong>Key Ingredients:<\/strong> Zinc Oxide &amp; Green Tea Extract<\/li>\n\t<li><strong>Skin Type:<\/strong> All Skin Types<\/li>\n\t<li><strong>Texture:<\/strong> Lightweight Gel<\/li>\n\t<li><strong>Size:<\/strong> 50ml<\/li>\n<\/ul>\n",
+        "RETURN & REFUND POLICY":"I\u2019m a Return and Refund policy. I\u2019m a great place to let your customers know what to do in case they are dissatisfied with their purchase. Having a straightforward refund or exchange policy is a great way to build trust and reassure your customers that they can buy with confidence.",
+        "SHIPPING INFO":"I'm a shipping policy. I'm a great place to add more information about your shipping methods, packaging and cost. Providing straightforward information about your shipping policy is a great way to build trust and reassure your customers that they can buy from you with confidence."
+      }
+    },
+    {
+      "productid":"product_d99d3cc8-bc75-ec47-6c72-f713016f98f3",
+      "name":"HydraPulse",
+      "description":"<p>A deeply hydrating serum with hyaluronic acid and panthenol. Plumps and replenishes moisture, leaving skin soft, smooth, and radiant.<\/p>",
+      "price":799.0,
+      "tag":"none",
+      "productimage":"./images/hydraPulse.jpg",
+      "category":"Serums",
+      "additional information":{
+        "PRODUCT INFO":"<ul>\n\t<li><strong>Key Ingredients:<\/strong> Hyaluronic Acid &amp; Panthenol<\/li>\n\t<li><strong>Skin Type:<\/strong> All Skin Types<\/li>\n\t<li><strong>Texture:<\/strong> Lightweight Gel Serum<\/li>\n\t<li><strong>Size:<\/strong> 30ml<\/li>\n<\/ul>\n",
+        "RETURN & REFUND POLICY":"I\u2019m a Return and Refund policy. I\u2019m a great place to let your customers know what to do in case they are dissatisfied with their purchase. Having a straightforward refund or exchange policy is a great way to build trust and reassure your customers that they can buy with confidence.",
+        "SHIPPING INFO":"I'm a shipping policy. I'm a great place to add more information about your shipping methods, packaging and cost. Providing straightforward information about your shipping policy is a great way to build trust and reassure your customers that they can buy from you with confidence."
+      }
+    },
+    {
+      "productid":"product_6b6778b4-c626-c00d-972c-b138d85e3f07",
+      "name":"SunSilk Tint",
+      "description":"<p>A tinted mineral sunscreen with SPF 50+ that evens skin tone while protecting against UV damage. Lightweight, blendable, and perfect for everyday wear.<\/p>",
+      "price":599.0,
+      "tag":"none",
+      "productimage":"./images/sunsilkTint.jpg",
+      "category":"Sunscreen",
+      "additional information":{
+        "PRODUCT INFO":"<ul>\n\t<li><strong>Key Ingredients:<\/strong> Titanium Dioxide &amp; Niacinamide<\/li>\n\t<li><strong>Skin Type:<\/strong> All Skin Types<\/li>\n\t<li><strong>Texture:<\/strong> Silky Cream<\/li>\n\t<li><strong>Size:<\/strong> 50ml<\/li>\n<\/ul>\n",
+        "RETURN & REFUND POLICY":"I\u2019m a Return and Refund policy. I\u2019m a great place to let your customers know what to do in case they are dissatisfied with their purchase. Having a straightforward refund or exchange policy is a great way to build trust and reassure your customers that they can buy with confidence.",
+        "SHIPPING INFO":"I'm a shipping policy. I'm a great place to add more information about your shipping methods, packaging and cost. Providing straightforward information about your shipping policy is a great way to build trust and reassure your customers that they can buy from you with confidence."
+      }
+    },
+    {
+      "productid":"product_1a2d7e83-4bef-31d5-09e1-3326ee271c09",
+      "name":"Balance Serum",
+      "description":"<p>A balancing serum infused with niacinamide and zinc to control excess oil, minimize pores, and soothe breakouts. Leaves skin clearer and more refined.<\/p>",
+      "price":799.0,
+      "tag":"none",
+      "productimage":"./images/balanceSerum.jpg",
+      "category":"Serums",
+      "additional information":{
+        "PRODUCT INFO":"<ul>\n\t<li><strong>Key Ingredients:<\/strong> Niacinamide &amp; Zinc<\/li>\n\t<li><strong>Skin Type:<\/strong> Oily &amp; Acne-Prone Skin<\/li>\n\t<li><strong>Texture:<\/strong> Water-Based Serum<\/li>\n\t<li><strong>Size:<\/strong> 30ml<\/li>\n<\/ul>\n",
+        "RETURN & REFUND POLICY":"I\u2019m a Return and Refund policy. I\u2019m a great place to let your customers know what to do in case they are dissatisfied with their purchase. Having a straightforward refund or exchange policy is a great way to build trust and reassure your customers that they can buy with confidence.",
+        "SHIPPING INFO":"I'm a shipping policy. I'm a great place to add more information about your shipping methods, packaging and cost. Providing straightforward information about your shipping policy is a great way to build trust and reassure your customers that they can buy from you with confidence."
+      }
+    },
+    {
+      "productid":"product_3fb6a3c8-988b-8755-04bd-5c59ae0b18ea",
+      "name":"Nocturne Renewal",
+      "description":"<p>An anti-aging night serum infused with retinol and bakuchiol. Boosts cell renewal, reduces fine lines, and refines skin texture for a youthful glow.<\/p>",
+      "price":849.0,
+      "tag":"none",
+      "productimage":"./images/nocturneRenewal.jpg",
+      "category":"Serums",
+      "additional information":{
+        "PRODUCT INFO":"<ul>\n\t<li><strong>Key Ingredients:<\/strong> Retinol &amp; Bakuchiol<\/li>\n\t<li><strong>Skin Type:<\/strong> Normal to Mature Skin<\/li>\n\t<li><strong>Texture:<\/strong> Silky Serum<\/li>\n\t<li><strong>Size:<\/strong> 30ml<\/li>\n<\/ul>\n",
+        "RETURN & REFUND POLICY":"I\u2019m a Return and Refund policy. I\u2019m a great place to let your customers know what to do in case they are dissatisfied with their purchase. Having a straightforward refund or exchange policy is a great way to build trust and reassure your customers that they can buy with confidence.",
+        "SHIPPING INFO":"I'm a shipping policy. I'm a great place to add more information about your shipping methods, packaging and cost. Providing straightforward information about your shipping policy is a great way to build trust and reassure your customers that they can buy from you with confidence."
+      }
+    }
+  ]
