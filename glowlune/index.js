@@ -27,3 +27,5 @@ fetch('data.json')
     console.error("Error loading products:", err);
     document.getElementById('productCards').innerHTML = "<p>Failed to load products.</p>";
   });
+
+  
