@@ -3,7 +3,7 @@
     "productid":"product_8b7184fe-16d2-d898-06d9-403ff8470c79",
     "name":"Glow Elixir",
     "description":"Vitamin C face wash with papaya extract.\nGently exfoliates and brightens dull skin.\nEvens tone and fades dark spots naturally.",
-    "productimage":"./images/glowElixir.jpg",
+    "productimage":"./static/images/glowElixir.jpg",
     "price":699.0,
     "tag":"BestSeller",
     "category":"Cleanser",
@@ -17,7 +17,7 @@
     "productid":"product_31e94170-b65f-bdc3-4aa8-633653cf602c",
     "name":"Lunar Detox",
     "description":"Charcoal cleanser with salicylic acid.\nDeeply purifies and unclogs pores.\nIdeal for oily, acne-prone skin.",
-    "productimage":"./images/lunarDetox.jpg",
+    "productimage":"./static/images/lunarDetox.jpg",
     "price":699.0,
     "tag":"BestSeller",
     "category":"Cleanser",
@@ -33,7 +33,7 @@
     "description":"Lavender & oat milk body wash.\nSoothes dry, sensitive skin.\nHydrates with delicate floral scent.",
     "price":749.0,
     "tag":"BestSeller",
-    "productimage":"./images/sereneBloom.jpg",
+    "productimage":"./static/images/sereneBloom.jpg",
     "category":"Body wash",
     "additional information":{
       "PRODUCT INFO":"Lavender & Oat Milk formula.\nFor dry, sensitive skin types.\n250ml creamy gel texture.",
@@ -47,7 +47,7 @@
     "description":"Rose water body wash.\nEnriched with Vitamin E.\nLeaves skin soft and radiant.",
     "price":749.0,
     "tag":"BestSeller",
-    "productimage":"./images/silkenGlow.jpg",
+    "productimage":"./static/images/silkenGlow.jpg",
     "category":"Body wash",
     "additional information":{
       "PRODUCT INFO":"Rose Water & Vitamin E.\nSuitable for all skin types.\n250ml lightweight gel formula.",
@@ -61,7 +61,7 @@
     "description":"Oil-control moisturizer.\nWith niacinamide and zinc.\nLightweight matte finish.",
     "price":599.0,
     "tag":"BestSeller",
-    "productimage":"./images/matteCloud.jpg",
+    "productimage":"./static/images/matteCloud.jpg",
     "category":"Moisturizer",
     "additional information":{
       "PRODUCT INFO":"Niacinamide & Zinc formula.\nFor oily & combination skin.\n100ml soft cream texture.",
@@ -75,7 +75,7 @@
     "description":"Ceramide moisturizing cream.\nWith squalane for hydration.\nStrengthens skin barrier.",
     "price":599.0,
     "tag":"none",
-    "productimage":"./images/silkBarrier.jpg",
+    "productimage":"./static/images/silkBarrier.jpg",
     "category":"Moisturizer",
     "additional information":{
       "PRODUCT INFO":"Ceramides & Squalane blend.\nFor dry & sensitive skin.\n100ml rich cream formula.",
@@ -89,7 +89,7 @@
     "description":"Water-based gel moisturizer.\nWith hyaluronic acid.\nNon-greasy hydration.",
     "price":599.0,
     "tag":"BestSeller",
-    "productimage":"./images/aquaVeil.jpg",
+    "productimage":"./static/images/aquaVeil.jpg",
     "category":"Moisturizer",
     "additional information":{
       "PRODUCT INFO":"Hyaluronic Acid & Green Tea.\nFor normal to oily skin.\n100ml lightweight gel.",
@@ -103,7 +103,7 @@
     "description":"Ceramide body cream.\nWith cocoa butter.\nUltra-hydrating formula.",
     "price":699.0,
     "tag":"none",
-    "productimage":"./images/celestialCaress.jpg",
+    "productimage":"./static/images/celestialCaress.jpg",
     "category":"Body lotion",
     "additional information":{
       "PRODUCT INFO":"Ceramides & Cocoa Butter.\nRich cream texture.\n200ml size.",
@@ -117,7 +117,7 @@
     "description":"Glow body lotion.\nWith niacinamide.\nShea butter enriched.",
     "price":699.0,
     "tag":"none",
-    "productimage":"./images/velvetEmbrace.jpg",
+    "productimage":"./static/images/velvetEmbrace.jpg",
     "category":"Body lotion",
     "additional information":{
       "PRODUCT INFO":"Niacinamide & Shea Butter.\nSilky cream texture.\n200ml size.",
@@ -131,7 +131,7 @@
     "description":"Fast-absorbing body lotion.\nWith squalane and aloe.\nNon-greasy hydration.",
     "price":699.0,
     "tag":"none",
-    "productimage":"./images/etheralSilk.jpg",
+    "productimage":"./static/images/etheralSilk.jpg",
     "category":"Body lotion",
     "additional information":{
       "PRODUCT INFO":"Squalane & Aloe Vera.\nLightweight cream.\n200ml size.",
@@ -145,7 +145,7 @@
     "description":"Green tea body wash.\nWith oat protein.\nCreamy gel formula.",
     "price":749.0,
     "tag":"none",
-    "productimage":"./images/auraDrizzle.jpg",
+    "productimage":"./static/images/auraDrizzle.jpg",
     "category":"Body wash",
     "additional information":{
       "PRODUCT INFO":"Green Tea & Oat Protein.\nFor normal to dry skin.\n250ml size.",
@@ -159,7 +159,7 @@
     "description":"Sulfate-free face wash.\nWith aloe and hyaluronic acid.\nGentle on sensitive skin.",
     "price":699.0,
     "tag":"none",
-    "productimage":"./images/dewDropCleanser.jpg",
+    "productimage":"./static/images/dewDropCleanser.jpg",
     "category":"Cleanser",
     "additional information":{
       "PRODUCT INFO":"Aloe Vera & Hyaluronic Acid.\nFor dry, sensitive skin.\n150ml lightweight gel.",
@@ -173,7 +173,7 @@
     "description":"Vitamin C brightening serum.\nWith Vitamin E.\nReduces dark spots.",
     "price":599.0,
     "tag":"none",
-    "productimage":"./images/lumineDrops.jpg",
+    "productimage":"./static/images/lumineDrops.jpg",
     "category":"Serums",
     "additional information":{
       "PRODUCT INFO":"Vitamin C & Vitamin E.\nFor all skin types.\n30ml lightweight serum.",
@@ -187,7 +187,7 @@
     "description":"SPF 50+ sunscreen.\nNon-greasy gel formula.\nBroad spectrum protection.",
     "price":499.0,
     "tag":"none",
-    "productimage":"./images/solarVeil.jpg",
+    "productimage":"./static/images/solarVeil.jpg",
     "category":"Sunscreen",
     "additional information":{
       "PRODUCT INFO":"Zinc Oxide & Green Tea.\nFor all skin types.\n50ml lightweight gel.",
@@ -201,7 +201,7 @@
     "description":"Hyaluronic acid serum.\nWith panthenol.\nDeeply hydrates skin.",
     "price":799.0,
     "tag":"none",
-    "productimage":"./images/hydraPulse.jpg",
+    "productimage":"./static/images/hydraPulse.jpg",
     "category":"Serums",
     "additional information":{
       "PRODUCT INFO":"Hyaluronic Acid & Panthenol.\nFor all skin types.\n30ml gel serum.",
@@ -215,7 +215,7 @@
     "description":"Tinted mineral sunscreen.\nSPF 50+ protection.\nEvens skin tone.",
     "price":599.0,
     "tag":"none",
-    "productimage":"./images/sunsilkTint.jpg",
+    "productimage":"./static/images/sunsilkTint.jpg",
     "category":"Sunscreen",
     "additional information":{
       "PRODUCT INFO":"Titanium Dioxide & Niacinamide.\nFor all skin types.\n50ml silky cream.",
@@ -229,7 +229,7 @@
     "description":"Niacinamide balancing serum.\nControls excess oil.\nMinimizes pores.",
     "price":799.0,
     "tag":"none",
-    "productimage":"./images/balanceSerum.jpg",
+    "productimage":"./static/images/balanceSerum.jpg",
     "category":"Serums",
     "additional information":{
       "PRODUCT INFO":"Niacinamide & Zinc formula.\nFor oily, acne-prone skin.\n30ml water-based serum.",
@@ -243,7 +243,7 @@
     "description":"Retinol night serum.\nWith bakuchiol.\nReduces fine lines.",
     "price":849.0,
     "tag":"none",
-    "productimage":"./images/nocturneRenewal.jpg",
+    "productimage":"./static/images/nocturneRenewal.jpg",
     "category":"Serums",
     "additional information":{
       "PRODUCT INFO":"Retinol & Bakuchiol blend.\nFor normal to mature skin.\n30ml silky serum.",

@@ -13,7 +13,6 @@ const firebaseConfig = {
   measurementId: "G-E1N4JGV1KK"
 };
 
-
 // Initialize Firebase
 const app = initializeApp(firebaseConfig);
 const auth = getAuth(app);
@@ -44,6 +43,38 @@ showSignupBtn.addEventListener("click", () => {
   message.textContent = "";
 });
 
+// Function to subscribe user to Mailchimp
+async function subscribeToMailchimp(email) {
+  const API_KEY = "50963f0b1fc9beed1a4633d40e1121a3-us13";  // ⚠️ Replace with your Mailchimp API key
+  const LIST_ID = "5a16ea9b0a";  // ⚠️ Replace with your list ID
+  const DATACENTER = "us13";        // ⚠️ Replace with your data center (e.g., us21)
+
+  const url = `https://${DATACENTER}.api.mailchimp.com/3.0/lists/${LIST_ID}/members`;
+
+  try {
+    const response = await fetch(url, {
+      method: "POST",
+      headers: {
+        "Authorization": `apikey ${API_KEY}`,
+        "Content-Type": "application/json"
+      },
+      body: JSON.stringify({
+        email_address: email,
+        status: "subscribed"
+      })
+    });
+
+    if (!response.ok) {
+      const error = await response.json();
+      console.error("Mailchimp error:", error.detail || error.title);
+    } else {
+      console.log("User subscribed to Mailchimp");
+    }
+  } catch (err) {
+    console.error("Mailchimp request failed", err);
+  }
+}
+
 // Submit Form
 authForm.addEventListener("submit", (e) => {
   e.preventDefault();
@@ -58,7 +89,6 @@ authForm.addEventListener("submit", (e) => {
         message.textContent = "Logged in successfully!";
         alert("Login successful!");
         window.location.href = "index.html";
-        // Redirect or handle UI
       })
       .catch((err) => {
         message.style.color = "red";
@@ -71,8 +101,11 @@ authForm.addEventListener("submit", (e) => {
         message.style.color = "green";
         message.textContent = "Account created!";
         alert("Account created!");
+
+        // 📧 Subscribe to Mailchimp
+        subscribeToMailchimp(email);
+
         window.location.href = "index.html";
-        // Redirect or handle UI
       })
       .catch((err) => {
         message.style.color = "red";

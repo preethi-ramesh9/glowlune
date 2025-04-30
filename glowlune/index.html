@@ -8,7 +8,7 @@
   <!-- Google Fonts: Playfair Display and Raleway -->
   <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,120&display=swap" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css2?family=Assistant:wght@200&display=swap" rel="stylesheet">
-
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 </head>
 <body>
 
@@ -23,7 +23,6 @@
     <nav class="nav-links">
       <a href="index.html">Home</a>
       <a href="shop.html">Shop</a>
-      <a href="product.html">Products</a>
       <a href="#about">About</a>
       <a href="#contact">Contact</a>
     </nav>
@@ -53,6 +52,7 @@
           <path d="M12 12c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm0 2c-3.87 0-7 3.13-7 7v2h14v-2c0-3.87-3.13-7-7-7z"/>
         </svg>
       </a>
+      
 
     </div>
   </header>
@@ -63,14 +63,14 @@
      <!-- star.svg -->
      
     <div class="hero-stars">
-      <img src="images/star.svg" class="star star1" alt="Star">
-      <img src="images/star.svg" class="star star2" alt="Star">
-      <img src="images/star.svg" class="star star3" alt="Star">
-      <img src="images/star.svg" class="star star4" alt="Star">
-      <img src="images/star.svg" class="star star5" alt="Star">
-      <img src="images/star.svg" class="star star6" alt="Star">
-      <img src="images/star.svg" class="star star7" alt="Star">
-      <img src="images/star.svg" class="star star8" alt="Star">
+      <img src="static/images/star.svg" class="star star1" alt="Star">
+      <img src="static/images/star.svg" class="star star2" alt="Star">
+      <img src="static/images/star.svg" class="star star3" alt="Star">
+      <img src="static/images/star.svg" class="star star4" alt="Star">
+      <img src="static/images/star.svg" class="star star5" alt="Star">
+      <img src="static/images/star.svg" class="star star6" alt="Star">
+      <img src="static/images/star.svg" class="star star7" alt="Star">
+      <img src="static/images/star.svg" class="star star8" alt="Star">
     </div>
   
     <div class="hero-text">
@@ -95,30 +95,26 @@
     </div>
   
     <div class="hero-image">
-      <img src="images/hero-skincare.jpg" alt="Glowlune Hero" />
+      <img src="static/images/hero-skincare.jpg" alt="Glowlune Hero" />
     </div>
   </section>
   
-  <section class="why-choose-us">
+  <section class="why-choose-us" id="#about">
     <h2>Why Choose Us</h2>
     <div class="card-container">
       <div class="card">
-        <img src="images/natural.png" alt="Natural Ingredients">
         <h3>Natural Ingredients</h3>
         <p>We use only plant-based, non-toxic ingredients that nourish your skin from the inside out.</p>
       </div>
       <div class="card">
-        <img src="images/crueltyfree.png" alt="Cruelty-Free">
         <h3>Cruelty-Free</h3>
         <p>No animal testing — just ethical, effective skincare made with love and science.</p>
       </div>
       <div class="card">
-        <img src="images/eco.png" alt="Eco Conscious">
         <h3>Eco Conscious</h3>
         <p>Our packaging is sustainable, recyclable, and kind to the planet we call home.</p>
       </div>
       <div class="card">
-        <img src="images/dermatologist.png" alt="Dermatologist Approved">
         <h3>Dermatologist Approved</h3>
         <p>Each formula is tested and approved by certified skincare professionals for safety and results.</p>
       </div>
@@ -134,24 +130,63 @@
   </section>
 
   
-
-  <section id="contact" class="contact">
-    <h2>Contact Us</h2>
-    <div class="locations">
-      <div class="location">~
-        <h3>New York Office</h3>
-        <p>Email: support@glowlune.com</p>
-        <p>Phone: +1 (212) 555-7890</p>
-        <p>123 Bloom Street, NY, USA</p>
+  <footer class="site-footer" id="contact">
+    <div class="footer-container">
+      <div class="footer-column">
+        <h3>Glowlune</h3>
+        <p>Illuminate your beauty with our premium skincare products. Glowlune brings you nature-inspired solutions for radiant, healthy skin.</p>
+        <div class="social-media">
+          <a href="https://www.instagram.com/glowluneskincare" class="social-icon"><i class="fab fa-instagram"></i></a>
+          <a href="#" class="social-icon"><i class="fab fa-pinterest-p"></i></a>
+        </div>
       </div>
-      <div class="location">
-        <h3>Los Angeles Office</h3>
-        <p>Email: hello@glowlune.com</p>
-        <p>Phone: +1 (310) 555-4567</p>
-        <p>456 Radiance Ave, CA, USA</p>
+  
+      <div class="footer-column">
+        <h4>Quick Links</h4>
+        <ul class="footer-links">
+          <li><a href="#">Home</a></li>
+          <li><a href="#">Products</a></li>
+          <li><a href="#">About Us</a></li>
+          <li><a href="#">Blog</a></li>
+          <li><a href="#">Contact</a></li>
+        </ul>
+      </div>
+  
+      <div class="footer-column">
+        <h4>Customer Service</h4>
+        <ul class="footer-links">
+          <li><a href="#">FAQs</a></li>
+          <li><a href="#">Shipping Policy</a></li>
+          <li><a href="#">Return Policy</a></li>
+          <li><a href="#">Privacy Policy</a></li>
+          <li><a href="#">Terms & Conditions</a></li>
+        </ul>
+      </div>
+  
+      <div class="footer-column">
+        <h4>Contact Info</h4>
+        <ul class="contact-info">
+          <li><i class="fas fa-map-marker-alt"></i> 123 Bloom Street, NY, USA</li>
+          <li><i class="fas fa-phone"></i> +1 (212) 555-7890</li>
+          <li><i class="fas fa-envelope"></i> support@glowlune.com</li>
+          <li><i class="fas fa-clock"></i> Mon-Fri: 9AM - 6PM EST</li>
+        </ul>
       </div>
     </div>
-  </section>
+  
+    <div class="footer-bottom">
+      <div class="footer-bottom-container">
+        <p>&copy; 2023 Glowlune. All Rights Reserved.</p>
+        <div class="payment-methods">
+          <i class="fab fa-cc-visa"></i>
+          <i class="fab fa-cc-mastercard"></i>
+          <i class="fab fa-cc-amex"></i>
+          <i class="fab fa-cc-paypal"></i>
+          <i class="fab fa-cc-apple-pay"></i>
+        </div>
+      </div>
+    </div>
+  </footer>
   <script src="index.js"></script>
 </body>
 </html>
